@@ -1,1 +1,1 @@
-# new-mvn-proj
+# mvn-proj
