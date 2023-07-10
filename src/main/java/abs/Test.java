@@ -1,2 +1,7 @@
-package abs;public interface Test {
+package abs;
+
+public interface Test {
+    void Test();
+
+
 }
